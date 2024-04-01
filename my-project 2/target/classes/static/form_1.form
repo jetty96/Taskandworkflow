@@ -1,0 +1,26 @@
+{
+  "components": [
+    {
+      "label": "Text field",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0iw7539",
+        "columns": null
+      },
+      "id": "Field_0ugxrif",
+      "key": "Input",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "form1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.21.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 15
+}
